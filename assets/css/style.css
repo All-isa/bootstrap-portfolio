@@ -1,0 +1,56 @@
+body {
+    background-image: url(../images/gplaypattern.png);
+    margin: auto;
+}
+
+content {
+    max-width: 960px;
+}
+
+#facepic {
+    width: 300px;
+    height: 200px;
+    padding-right:20px;
+}
+
+.connect {
+    height:50px;
+    width:50px;
+}
+
+aside {
+    text-align: center;
+
+}
+
+#footer {
+    text-align: center;
+    background:#333;
+    color:white;
+}
+
+.nav-bar {
+    padding-bottom:30px;
+    font-size:30px;
+}
+
+.container2 { 
+    position: relative;
+    float: left;
+    max-width: 650px;
+    margin:20px;
+    text-align: center;
+    color: white;
+}
+
+.projects {
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    background: navy;
+    width: 36%;
+}
+
+form {
+    padding-top:20px;
+}
